@@ -1,10 +1,12 @@
 ### Web Scraping/Crawling useful links
 
+HTML reference (on all tags) : https://www.javatpoint.com/html-tags
+
 Beautiful Soup Library documentation : https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 
 Requests Library Documentation : https://pypi.org/project/requests/
 
-Scraping Tutorial : 
+Scraping blogs : 
 
 https://stackabuse.com/guide-to-parsing-html-with-beautifulsoup-in-python 
 
